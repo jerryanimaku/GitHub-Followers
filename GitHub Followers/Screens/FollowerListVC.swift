@@ -211,10 +211,6 @@ extension FollowerListVC: FollowerListVCDelegate {
         collectionView.layoutIfNeeded() // Ensures layout updates before scrolling
         collectionView.setContentOffset(CGPoint(x: 0, y: -collectionView.adjustedContentInset.top), animated: true)
 
-        
         getFollowers(username: username, page: page)
     }
-    
-    
 }
- 
