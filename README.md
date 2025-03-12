@@ -1,5 +1,5 @@
 # GitHub-Followers
-An IOS Application for users to access their GitHub Followers and view their Repos and Gists
+An iOS Application for users to access their GitHub Followers and view their Repos and Gists
 
 The landing page for someone with Followers:
 
